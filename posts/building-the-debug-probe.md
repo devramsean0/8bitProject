@@ -36,4 +36,4 @@ Because I'm already reading the clock pin for signal, I can do a simple check at
 
 # PCB
 ## V1
-![V1](https://8bitproject.sean.cyou/images/probe-pcs/v1.png)
+![V1](https://8bitproject.sean.cyou/images/probe-pcbs/v1.png)
