@@ -2,7 +2,7 @@
 title: Building the Debug probe
 description: Talking through building my debug probe
 publishedDate: 2023/01/04
-lastEdited: 2023/01/04
+lastEdited: 2023/03/04
 ---
 # Going off piece.
 The video guide i'm following uses an Arduino Mega compatible board. However I don't have one of those, so instead I'm building my own solution with a Raspberry Pi Pico with CircuitPython instead
@@ -37,3 +37,6 @@ Because I'm already reading the clock pin for signal, I can do a simple check at
 # PCB
 ## V1
 ![V1](https://8bitproject.sean.cyou/images/probe-pcbs/v1.png)
+
+# IMPORTANT EDIT
+I recently went to put this into production. But after checking the price I have decided it would be more economically friendly to buy an arduino mega clone
