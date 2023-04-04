@@ -14,4 +14,4 @@ I've built 2 bits of the Clock. (The repetive and momentary bits) following thes
 * [Clock Part 1](https://www.youtube.com/watch?v=kRlSFm519Bo)
 * [Clock Part 2](https://www.youtube.com/watch?v=81BgFhm2vz8)
 
-![040423-video1](https://8bitproject.sean.cyou/images/build-log/040423/vid1.png)
+!!(https://8bitproject.sean.cyou/images/build-log/040423/vid1.png)
