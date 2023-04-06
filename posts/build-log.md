@@ -1,6 +1,6 @@
 ---
 title: Build Log
-description: A log of work on the computer and wider project, including a brief description for each day of work & atleast 1 photo
+description: A log of work on the computer and wider project,
 publishedDate: 2023/03/04
 ---
 # Day 1 (3rd of April 2023)
@@ -9,9 +9,9 @@ The parts arrived! and I installed the software to flash EEPROM's via my new wri
 ![030423-photo1](https://8bitproject.sean.cyou/images/build-log/030423/img1.png)
 
 # Day 2 (4th of April 2023)
-I've built 2 bits of the Clock. (The repetive and momentary bits) following these videos
+I've built 2 bits of the Clock. (The repetive and momentary bits) following [these videos](https://youtube.com/playlist?list=PLjOkTyLXtQdpgNY26l8Niqs8ZFTnUl9_0)
 
-* [Clock Part 1](https://www.youtube.com/watch?v=kRlSFm519Bo)
-* [Clock Part 2](https://www.youtube.com/watch?v=81BgFhm2vz8)
+[Demo video](https://8bitproject.sean.cyou/images/build-log/040423/vid1.mp4)
 
-!!(https://8bitproject.sean.cyou/images/build-log/040423/vid1.png)
+# Day 3 (6th of April 2023)
+Wrote the first bit of the new debug probe!
